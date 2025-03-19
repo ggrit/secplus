@@ -127,7 +127,7 @@
 	- This *asset value* is expressed in money, and may be determined using the cost to acquire the asset, the cost to replace the asset, or the depreciated cost of the asset, depending on the organization's preferences 
 2. **Determine the likelihood that the risk will occur**
 	- Risk analysts consult subject matter experts and determine the likelihood (also kwon as the probability) that a risk will occur in a given year
-	- Expressed as the number of times the risk is expected each year and is described as the **Annualized rate of Occurrence (ARO)**
+	- Expressed as the number of times the risk is expected each year and is described as the **Annualized Rate of Occurrence (ARO)**
 		- A risk that is expected to occur twice a year has an ARO of 2.0, whereas a risk is expected once every one hundred years has an ARO of 0.01
 3. **Determine the amount of damage that will occur to the asset if the risk materializes**
 	- This is known as the **Exposure Factor (EF)** and is expressed as the percentage of the asset expected to be damaged
