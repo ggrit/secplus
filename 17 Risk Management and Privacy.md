@@ -94,7 +94,7 @@
 		- Point-in-time view of its current risk state
 		- May be done in response to a security incident, at the request of management, or when the organization wants a snapshot of its risk profile
 	- **Ad hoc risk assessments**
-		- Conducted in response to a specific event or situation, 
+		- Conducted in response to a specific event or situation 
 			- New project, technology implementation, or significant change in the business environment
 		- Often performed quickly to address a particular concern or set of circumstances
 	- **Recurring risk assessments**
